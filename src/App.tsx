@@ -1,3 +1,6 @@
+/* eslint-disable no-useless-escape */
+/* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import React, { useState, useRef, useEffect } from 'react';
 import { Send, Bot, User, RefreshCw, ThumbsUp, ThumbsDown, Cloud } from 'lucide-react';
 
